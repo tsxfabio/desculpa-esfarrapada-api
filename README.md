@@ -1,6 +1,6 @@
 # Desculpa Esfarrapada API
 
-### Tecnologias Utinilizadas (Ambiente Produção).
+### Tecnologias Utilizadas (Ambiente Produção).
 - Fastify  
 Framework web leve e eficiente para Node.js. Ele foi projetado para ser rápido e de alto desempenho, oferecendo uma arquitetura extensível e fácil de usar. O objetivo principal do Fastify é fornecer uma alternativa ao Express.js, oferecendo velocidade e eficiência em termos de manipulação de solicitações e respostas.  
 
